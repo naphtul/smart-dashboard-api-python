@@ -1,0 +1,8 @@
+### Get controller schedules
+GET {{host}}/irrigation/controllers
+
+### Run zone
+POST {{host}}/irrigation/zones/{{zone_id}}?run_time=60
+
+### Stop zone
+DELETE {{host}}/irrigation/zones/{{zone_id}}
