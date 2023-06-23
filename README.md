@@ -7,7 +7,7 @@ To be used internally by a Smart Home Dashboard UI TBD.
 ### Controllers
 The controllers simplify the API and making it more RESTful.
 ### API examples
-Are located in [tests](tests/) folder. Currently, manuel tests.
+Are located in [test](test/) folder. Currently, manuel tests.
 
 ## Setup
 1. `pip install -r requirements.txt`
