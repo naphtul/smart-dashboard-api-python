@@ -1,5 +1,5 @@
 from hydrawise_irrigation.Hydrawise import Hydrawise
-from flask import Blueprint, request, send_from_directory
+from flask import Blueprint, request
 
 irrigation = Hydrawise()
 app = Blueprint('irrigation', __name__, url_prefix='/irrigation')

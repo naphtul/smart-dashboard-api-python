@@ -1,0 +1,8 @@
+### Get Garage Doors
+GET {{host}}/garage/
+
+### Open door
+POST {{host}}/garage/doors/{{door_name}}
+
+### Close door
+DELETE {{host}}/garage/doors/{{door_name}}
