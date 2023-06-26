@@ -2,4 +2,4 @@ Flask==2.3.2
 Flask-cors==4.0.0
 hydrawise-irrigation @ git+https://github.com/naphtul/irrigation-sdk-python@v0.0.3
 myq @ git+https://github.com/naphtul/myq-garage-python@v0.0.5
-kasa-sdk-python @ git+https://github.com/naphtul/kasa-sdk-python@v0.0.2
+kasa-sdk-python @ git+https://github.com/naphtul/kasa-sdk-python@v0.0.4
