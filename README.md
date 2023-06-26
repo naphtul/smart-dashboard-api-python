@@ -12,7 +12,9 @@ Are located in [test](test/) folder. Currently, manuel tests.
 ## Setup
 1. `pip install -r requirements.txt`
 2. Get API Keys for all the services and supply them as environment variables
-   - `HYDRAWISE_API_KEY=...` 
+   - `HYDRAWISE_API_KEY=...`
+   - `MYQ_USER=...`
+   - `MYQ_PASS=...`
 
 ## Usage
 `python src/app.py`

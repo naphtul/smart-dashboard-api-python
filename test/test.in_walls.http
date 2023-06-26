@@ -1,0 +1,5 @@
+### Get Devices
+GET {{host}}/in_walls/
+
+### Toggle device state
+POST {{host}}/in_walls/{{device_name}}
